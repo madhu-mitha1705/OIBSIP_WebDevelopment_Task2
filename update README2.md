@@ -3,7 +3,7 @@
 ## Intern: P. Madhumitha  
 📧 Email: madhumithx17@gmail.com  
 🔧 Domain: Web Development  
-📌 Internship Task 1: Calculator
+📌 Internship Task 2: Tribute Page
 
 ## Description
 
